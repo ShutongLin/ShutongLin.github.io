@@ -18,6 +18,15 @@ h2 {
 	border-color: #E3C1BA;
 }
 
+h3 {
+	text-align: center;
+	border-style: solid;
+	border-width:  2px;
+	border-left-width: 2px;
+	border-right-width: 2px;
+	border-color: powderblue;
+}
+
 p {
 	font-size: 20px;
 	font-family:sans-serif;
