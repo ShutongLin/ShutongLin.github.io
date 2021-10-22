@@ -12,7 +12,7 @@ h1 {
 h2 {
 	text-align: left;
 	font-family: serif;
-	padding: 30px;
+	padding: 10px;
 	
 }
 
@@ -23,7 +23,7 @@ h3 {
 	border-left-width: 2px;
 	border-right-width: 2px;
 	border-color: powderblue;
-	padding: 30px;
+	padding: 10px;
 }
 
 p {
